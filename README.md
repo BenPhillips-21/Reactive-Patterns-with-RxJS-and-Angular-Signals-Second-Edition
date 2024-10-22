@@ -1,5 +1,7 @@
 # Reactive Patterns with RxJS and Angular Signals - Second Edition
 
+Test Commit :)
+
 <a href="https://www.packtpub.com/product/reactive-patterns-with-rxjs-and-angular-signals-second-edition/9781835087701"><img src="https://content.packt.com/_/image/original/B21180/cover_image_large.jpg" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Reactive Patterns with RxJS and Angular Signals - Second Edition](https://www.packtpub.com/product/reactive-patterns-with-rxjs-and-angular-signals-second-edition/9781835087701), published by Packt.
